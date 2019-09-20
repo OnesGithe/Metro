@@ -1,0 +1,52 @@
+<!DOCTYPE html>  <!--declaration defines this document to be HTML -->
+<html> <!--element is the root element of an HTML page-->
+<head> <!--element contains meta information about the document-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Chapati Pumpkin Recipe</title>
+  <!--element specifies a title for the document-->
+</head>
+<body> <!-- element contains the visible page content-->
+  <h1>
+  <p> 
+   <!-- element defines a paragraph-->
+    </p> 
+    </h1>
+  <!-- unOrdered list -->
+  <ol>
+    <li> 1/2kg Diced pumpkin </li>
+    <li> 3 Cups flour </li>
+ <li>1/4 teespoon turmeric powder (Optional)</li>
+ <li>2 Tablespoons vegetable oil for the dough</li>
+ <li>1 Cup warm water </li>
+ <li>Salt to taste</li>
+ <li>Cooking oil </li>
+   </ol>
+  
+  <!-- Ordered list -->
+  <ol>
+    <ul>
+    <li>Boil the pumpkin adding salt to taste until
+      it is tender and easy to mash</li>
+    <li>Pure the pumpkin in a blender or simply 
+      use a fork to mash the pumpkin</li>
+    <li>Using your clean hands mix the flour, salt, the pumpkin puree,
+      turmeric powder(optional) and cooking oil in a bowl 
+      kneading at the same time. Add water if required and continue
+      kneading until you have a smooth dough.
+   <li> Cover the dough and let it rest for 20 minutes.</li>
+   <li> Knead the flour well again and divide it into balls. 
+     Dust the balls with some flour to avoid sticking on the surface.
+     Flatten each ball and roll out thinly into sizeable circles.</li>
+    <li>Heat an ungreased, heavy skillet or griddle over a medium flame.
+      Lightly grease the pan and slowly heat the first chapati.
+      Cook on one side for about 1 minute or until lightly brown,
+      then flip and cook the other side.Press the sides of the chapati
+      with a spoon until it puffs.
+    <li>Remove the chapati and place it in a warm dish or 
+      foil paper and wrap it to keep it warm. Repeat this process for every chapati. </li>
+
+    <ol>
+    
+</body> <!-- end of visible page content-->
+</html> <!--End of HTML page-->
